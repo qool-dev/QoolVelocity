@@ -1,0 +1,6 @@
+name: QoolVelocity
+version: ${project.version}
+main: dev.qool.qoolvelocity.QoolVelocity
+authors: [ fan87 ]
+description: A plugin that allows you to create velocity with command blocks
+website: https://qool.dev
